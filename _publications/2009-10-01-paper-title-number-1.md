@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Learning Structured Representations by Embedding Class Hierarchy with Optimal Transport"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-01-10-iclr-hierarchy
+excerpt: 'Hierarchical representation learning via optimal transport.'
+date: 2025-01-22
+venue: 'The Thirteenth International Conference on Learning Representations (ICLR)'
+paperurl: https://openreview.net/forum?id=AnL6BuWzxa
+slidesurl: 'https://iclr.cc/virtual/2025/poster/30615'
+citation: 'Siqi Zeng, Sixian Du, Makoto Yamada, and Han Zhao, “Learning structured representations by embedding class hierarchy with fast optimal transport,” in ICLR, 2025.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
